@@ -28,6 +28,18 @@ body {
   white-space: normal;
 }
 
+.header {
+  position: fixed;
+  left: -2%;
+  top: 2%;
+  width: 100%;
+  background-color: white;
+  color: #bebebe;
+  text-align: right;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
 h1 {
   color: #bebebe;
   font-weight: 100;
